@@ -870,6 +870,7 @@ banana pancakes,1,½,cups flour
 banana pancakes,1,tablespoon,baking powder
 banana pancakes,½,teaspoon,salt
 banana pancakes,½,teaspoon,cinnamon
+<<<<<<< HEAD
 new breakfast burrito,1/3,c,milk
 new breakfast burrito,1,T,butter
 new breakfast burrito,1/2,,onion
@@ -906,3 +907,11 @@ tirimisu,0.5,c,caster sugar
 tirimisu,1,t,vanilla
 tirimisu,2,T,cocoa powder
 tirimisu,20,g,dark chocolate
+=======
+tofu rigatoni,1,blocks,tofu
+tofu rigatoni,2,cans,petite diced tomatoes
+tofu rigatoni,1,,onion
+tofu rigatoni,1,,green pepper
+tofu rigatoni,1/4, t, cinnamon
+tofu rigatoni,1,boxes, rigatoni
+>>>>>>> 6095a7dfb7b5956eccfef6fef29dab1af4ef73b0
