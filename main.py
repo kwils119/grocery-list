@@ -62,18 +62,21 @@ def read_recipes_from_csv(file_path):
 conversion_factors = { #cups 
     't': 1 / 48,     
     'teaspoon': 1/48, 
+    'teaspoons':1/48, 
     'T': 1 / 16,      
     'tablespoon': 1/16, 
+    'tablespoons':1/16,
     'c': 1,           
-    'oz': 8,          
+    'oz': 1/2,
+    'ounces':1/2,          
     'can': 2
 }
 
-# Ingredients that should not be converted to ounces
+# Ingredients that should not be converted
 no_conversion_list = {
     'apples', 'bananas', 'tomatoes', 'carrots', 'ginger', 
     'garlic', 'chickpeas', 'fire roasted tomatoes', 'wide rice noodles', 
-    'baking powder'
+    'baking powder', 'biscuits', ''
 }
 
 # Specific conversion preferences
@@ -88,7 +91,8 @@ conversion_T_preferences = [
     'fish sauce',
     'oyster sauce', 
     'maple syrup', 
-    'poultry seasoning'
+    'poultry seasoning',
+    'vanilla'
 ]
 
 def convert_to_measurement(quantity, measurement, ingredient):
@@ -148,8 +152,8 @@ while(res != "--"):
 
 print("These are the recipes you are making:")
 for recipe in my_recipes: 
-   #print(recipe.double_check())
-   print(recipe)
+   print(recipe.double_check())
+   #print(recipe)
    print("\n")
    
 #shopping_list = Recipe("list", [])
@@ -157,6 +161,6 @@ shopping_list = aggregate_shopping_list(my_recipes)
 
 print("Shopping list:")
 for ingredient, (total_quantity, measurement) in shopping_list.items():
-    print(f"{total_quantity:5.2f} {measurement:7s} {ingredient}")
+    print(f"{total_quantity:5.2f} {measurement:10s} {ingredient}")
       
 

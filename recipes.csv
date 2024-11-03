@@ -49,7 +49,7 @@ thai green curry,2,t,brown sugar
 thai green curry,1,T,lime juice
 thai green curry,1,c,bell peppers
 thai green curry,1,c,carrots
-thai green curry,1/2,c,bamboo
+thai green curry,1/2,c,bamboo shoots
 thai green curry,1,can,water chestnuts,
 thai green curry,,, lime and basil leaves
 chickpea gnocchi soup,2,T,olive oil
@@ -85,7 +85,7 @@ fried rice,1/2,c,peas
 fried rice,1/2,c,carrots
 fried rice,3,T,soy sauce
 fried rice,1,T,peanut butter
-fried rice,1-2,t,chili sauce
+fried rice,2,t,chili sauce
 fried rice,1,t,sesame oil
 rigatoni casserole,1,lb,rigatoni
 rigatoni casserole,28,oz,pasta sauce
@@ -543,21 +543,21 @@ tofu breakfast sandwich,½,t,onion powder
 tofu breakfast sandwich,½,t,turmeric
 tofu breakfast sandwich,¼,t,pepper
 tofu breakfast sandwich,,,bread
-biscuit veggie pot pie,can,of,8 biscuits
-biscuit veggie pot pie,¼,c,unsalted butter
-biscuit veggie pot pie,1c,diced,onion
-biscuit veggie pot pie,1c,diced,carrots
-biscuit veggie pot pie,1c,diced,celery
-biscuit veggie pot pie,1c,chopped,mushrooms
-biscuit veggie pot pie,3-4,cloves,garlic
-biscuit veggie pot pie,⅓,c,flour
+biscuit veggie pot pie,1,can,biscuits
+biscuit veggie pot pie,1/4,c,butter
+biscuit veggie pot pie,1,,onion
+biscuit veggie pot pie,1,,carrots
+biscuit veggie pot pie,2,,celery
+biscuit veggie pot pie,1,c,mushrooms
+biscuit veggie pot pie,3,cloves,garlic
+biscuit veggie pot pie,1/3,c,flour
 biscuit veggie pot pie,1,t,salt
-biscuit veggie pot pie,½,t,pepper
-biscuit veggie pot pie,1t,dried,thyme
-biscuit veggie pot pie,2c,vegetable,broth
-biscuit veggie pot pie,½c,creamy,milk
-biscuit veggie pot pie,2c,frozen,veggies
-biscuit veggie pot pie,2T,fresh,or 2t dried parsley
+biscuit veggie pot pie,1/2,t,pepper
+biscuit veggie pot pie,1,t,thyme
+biscuit veggie pot pie,2,c,vegetable broth
+biscuit veggie pot pie,1/2,c,milk
+biscuit veggie pot pie,2,c,frozen veggies
+biscuit veggie pot pie,2,t,dried parsley
 protein cheesecake bars,½,c,protein powder
 protein cheesecake bars,½,c,almond flour + 1 T butter (optional)
 protein cheesecake bars,½,t,baking soda
@@ -589,10 +589,11 @@ breakfast casserole,1,t,thyme
 breakfast casserole,1,t,turmeric
 breakfast casserole,½,t,pepper
 white gravy,5,T,butter
-white gravy,¼,c,flour
+white gravy,1/4,c,flour
 white gravy,2,cups,milk
 white gravy,1,t,pepper
-white gravy,½,t,seasoned salt
+white gravy,1/2,t,seasoned salt
+white gravy,1,can,chickpeas 
 poke bowl,1c,brown,rice
 poke bowl,2T,rice,vinegar
 poke bowl,½,t,salt
@@ -771,12 +772,12 @@ sausage,¼,teaspoon,cayenne
 sausage,,,Oil
 baked oatmeal,1,ripe,"banana, smashed"
 baked oatmeal,1,cup,almond milk
-baked oatmeal,¼,cup,almond butter
-baked oatmeal,¼,cup,maple syrup
-baked oatmeal,¼,cup,melted coconut oil
+baked oatmeal,1/4,cup,almond butter
+baked oatmeal,1/4,cup,maple syrup
+baked oatmeal,1/4,cup,melted coconut oil
 baked oatmeal,1,teaspoon,baking powder
 baked oatmeal,1,teaspoon,cinnamon
-baked oatmeal,½,teaspoon,sea salt
+baked oatmeal,1/2,teaspoon,sea salt
 baked oatmeal,2,cups,whole rolled oats
 baked oatmeal,1,cup,chopped pecans
 baked oatmeal,1,cup,blueberries
@@ -847,9 +848,9 @@ chickpeas & dumplings,1,tablespoon,olive oil
 chickpeas & dumplings,1,,onion
 chickpeas & dumplings,2,,carrots
 chickpeas & dumplings,2,,celery
-chickpeas & dumplings,¼,cup,flour
+chickpeas & dumplings,1/4,cup,flour
 chickpeas & dumplings,1,teaspoon,poultry seasoning
-chickpeas & dumplings,½,teaspoon,salt
+chickpeas & dumplings,1/2,teaspoon,salt
 chickpeas & dumplings,4,cups,vegetable broth
 chickpeas & dumplings,1,can,chickpeas
 chickpeas & dumplings,1,cup,frozen peas
@@ -857,9 +858,9 @@ chickpeas & dumplings,1,cup,coconut milk
 chickpeas & dumplings,2,cups,flour
 chickpeas & dumplings,1,tablespoon,baking powder
 chickpeas & dumplings,1,teaspoon,salt
-chickpeas & dumplings,½,teaspoon,poultry seasoning
-chickpeas & dumplings,¾,cup,coconut milk
-chickpeas & dumplings,¼,cup,olive oil
+chickpeas & dumplings,1/2,teaspoon,poultry seasoning
+chickpeas & dumplings,3/4,cup,coconut milk
+chickpeas & dumplings,1/4,cup,olive oil
 banana pancakes,1,mashed,banana
 banana pancakes,1,cup,soy milk
 banana pancakes,2,tablespoons,oil
@@ -869,3 +870,39 @@ banana pancakes,1,½,cups flour
 banana pancakes,1,tablespoon,baking powder
 banana pancakes,½,teaspoon,salt
 banana pancakes,½,teaspoon,cinnamon
+new breakfast burrito,1/3,c,milk
+new breakfast burrito,1,T,butter
+new breakfast burrito,1/2,,onion
+new breakfast burrito,1,t,turmeric
+new breakfast burrito,1,block,tofu
+new breakfast burrito,0.5,t,black salt
+new breakfast burrito,1,T,soy sauce
+new breakfast burrito,1,t,garlic powder
+new breakfast burrito,1,t,onion powder
+new breakfast burrito,2,T,nutritional yeast
+new breakfast burrito,1,T,olive oil
+new breakfast burrito,1,lb,frozen diced potatoes
+new breakfast burrito,1,c,spinach
+new breakfast burrito,1,can,black beans
+new breakfast burrito,1,c,cheese
+new breakfast burrito,1,c,salsa
+new breakfast burrito,5,,tortillas
+lady fingers,2,c,flour
+lady fingers,2,T,cornstarch
+lady fingers,1,t,baking powder
+lady fingers,0.5,c,aquafaba
+lady fingers,1.16,c,caster sugar
+lady fingers,1,t,vanilla
+lady fingers,0.25,c,vegetable oil
+lady fingers,2,T,confectioners sugar
+tirimisu,2,shots,espresso
+tirimisu,2,T,rum
+tirimisu,6,T,confectioners sugar
+tirimisu,12,,lady fingers
+tirimisu,12,T,butter
+tirimisu,1,block,silken tofu
+tirimisu,120,g,yogurt
+tirimisu,0.5,c,caster sugar
+tirimisu,1,t,vanilla
+tirimisu,2,T,cocoa powder
+tirimisu,20,g,dark chocolate
