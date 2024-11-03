@@ -53,7 +53,7 @@ thai green curry,1/2,c,bamboo shoots
 thai green curry,1,can,water chestnuts,
 thai green curry,,, lime and basil leaves
 chickpea gnocchi soup,2,T,olive oil
-chickpea gnocchi soup,1,onion,
+chickpea gnocchi soup,1,,onion
 chickpea gnocchi soup,1,c,carrots
 chickpea gnocchi soup,1,c,celery
 chickpea gnocchi soup,6,cloves,garlic
@@ -742,18 +742,17 @@ breakfast hash,½,teaspoon,cumin powder
 breakfast hash,½,teaspoon,smoked paprika
 breakfast hash,Salt,and,pepper
 breakfast hash,Optional:,2-3,tablespoons oil
-mediterranean zoodles,2,large,zucchini
+mediterranean zoodles,2,,zucchini
 mediterranean zoodles,1,teaspoon,olive oil
 mediterranean zoodles,4,cloves,garlic
 mediterranean zoodles,10,oz,cherry tomatoes
-mediterranean zoodles,½,cup,artichoke hearts
-mediterranean zoodles,¼,cup,sun-dried tomatoes
-mediterranean zoodles,2-4,oz,plain hummus
+mediterranean zoodles,0.5,cup,artichoke hearts
+mediterranean zoodles,0.25,cup,sun-dried tomatoes
+mediterranean zoodles,4,oz,plain hummus
 mediterranean zoodles,1,teaspoon,oregano
-mediterranean zoodles,½,teaspoon,red wine vinegar
-mediterranean zoodles,Salt,and,pepper
+mediterranean zoodles,0.5,teaspoon,red wine vinegar
 protein bagels,2,cups,flour
-protein bagels,¼,teaspoon,salt
+protein bagels,0.25,teaspoon,salt
 protein bagels,2,teaspoons,baking powder
 protein bagels,1.5,cups,Greek yogurt
 sausage,1,cup,cooked quinoa
@@ -861,15 +860,15 @@ chickpeas & dumplings,1,teaspoon,salt
 chickpeas & dumplings,1/2,teaspoon,poultry seasoning
 chickpeas & dumplings,3/4,cup,coconut milk
 chickpeas & dumplings,1/4,cup,olive oil
-banana pancakes,1,mashed,banana
+banana pancakes,1,,banana
 banana pancakes,1,cup,soy milk
-banana pancakes,2,tablespoons,oil
+banana pancakes,2,tablespoons,olive oil
 banana pancakes,2,tablespoons,sugar
 banana pancakes,1,teaspoon,vanilla
-banana pancakes,1,½,cups flour
+banana pancakes,1.5,cup,flour
 banana pancakes,1,tablespoon,baking powder
-banana pancakes,½,teaspoon,salt
-banana pancakes,½,teaspoon,cinnamon
+banana pancakes,0.5,teaspoon,salt
+banana pancakes,0.5,teaspoon,cinnamon
 new breakfast burrito,1/3,c,milk
 new breakfast burrito,1,T,butter
 new breakfast burrito,1/2,,onion
@@ -910,6 +909,6 @@ tofu rigatoni,1,blocks,tofu
 tofu rigatoni,2,cans,petite diced tomatoes
 tofu rigatoni,1,,onion
 tofu rigatoni,1,,green pepper
-tofu rigatoni,1/4, t,cinnamon
+tofu rigatoni,0.25,t,cinnamon
 tofu rigatoni,1,boxes,rigatoni
 tofu rigatoni,1,pinch,sugar

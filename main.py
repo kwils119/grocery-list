@@ -69,7 +69,9 @@ conversion_factors = { #cups
     'c': 1,           
     'oz': 1/2,
     'ounces':1/2,          
-    'can': 2
+    'can': 2,
+    'pinch': 1/768,
+    'pinches': 1/768
 }
 
 # Ingredients that should not be converted
@@ -92,7 +94,14 @@ conversion_T_preferences = [
     'oyster sauce', 
     'maple syrup', 
     'poultry seasoning',
-    'vanilla'
+    'vanilla',
+    'cinnamon',
+    'oregano',
+    'thyme',
+    'red wine vinegar'
+    'paprika',
+    'red pepper',
+    'white pepper'
 ]
 
 def convert_to_measurement(quantity, measurement, ingredient):
