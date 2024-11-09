@@ -94,7 +94,7 @@ rigatoni casserole,1,T,balsamic vinegar
 rigatoni casserole,1,t,Italian seasoning
 rigatoni casserole,2,cloves,garlic
 rigatoni casserole,2,c,water
-rigatoni casserole,7,oz,silken/firm tofu
+rigatoni casserole,7,oz,tofu
 rigatoni casserole,1,T,olive oil
 rigatoni casserole,1/2,t,garlic powder
 rigatoni casserole,1/2,t,nutritional yeast
@@ -103,7 +103,7 @@ rigatoni casserole,1/4,t,onion powder
 rigatoni casserole,1,t,lemon juice
 rigatoni casserole,1/2,c,water
 rigatoni casserole,2,t,flour
-thai red curry casserole,3-4,T,red curry paste
+thai red curry casserole,4,T,red curry paste
 thai red curry casserole,1,c,coconut milk
 thai red curry casserole,1,c,vegetable broth
 thai red curry casserole,1.5,T,soy sauce
@@ -112,11 +112,9 @@ thai red curry casserole,1/4,t,salt
 thai red curry casserole,125,g,carrot
 thai red curry casserole,80,g,onion
 thai red curry casserole,1,,bellpepper
-thai red curry casserole,1, can, chickpeas
+thai red curry casserole,1,can,chickpeas
 thai red curry casserole,180,g,broccoli
 thai red curry casserole,1,c,rice
-thai red curry casserole,,,lime juice
-thai red curry casserole,,,cilantro
 chickpea pasta salad,1/2,lb,pasta
 chickpea pasta salad,15,oz,chickpeas
 chickpea pasta salad,1.5,c,cherry tomatoes
@@ -148,7 +146,7 @@ protein lemon bars,1/3,c,lemon juice
 protein lemon bars,1/2,t,vanilla
 protein lemon bars,dash,turmeric,
 pad thai,3,cloves,garlic
-pad thai,1/2,zucchini,
+pad thai,1/2,,zucchini
 pad thai,,,carrots
 pad thai,1,large,broccoli
 pad thai,20,g,brown sugar
@@ -162,8 +160,7 @@ pad thai,1,t,pepper
 pad thai,200,g,rice noodles
 pad thai,30,g,chopped peanuts
 pad thai,50,g,bean sprouts
-pad thai,1/4,lime,
-pad thai,,,parsley
+pad thai,1/4,,lime
 pasta with tofu & veggies,12,oz,pasta
 pasta with tofu & veggies,4,c,pasta sauce
 pasta with tofu & veggies,2,blocks,extra firm tofu
@@ -279,18 +276,18 @@ chickpea stew,4,"tomatoes,",chopped
 chickpea stew,2,t,tomato puree
 chickpea stew,1,can,chickpeas
 chickpea stew,200,g,spinach
-noah’s ramen,1,block,tofu
-noah’s ramen,ramen,noodles,
-noah’s ramen,ramen,broth,
-noah’s ramen,,,sage
-noah’s ramen,curry,powder,
-noah’s ramen,,,cayenne
-noah’s ramen,,,cornstarch
-noah’s ramen,sesame,seeds,
-noah’s ramen,bok,choy,
-noah’s ramen,,,spinach
-noah’s ramen,matchstick,carrots,
-noah’s ramen,green,onion,
+noah ramen,1,block,tofu
+noah ramen,,,ramen noodles
+noah ramen,,,ramen broth
+noah ramen,,,sage
+noah ramen,,,curry powder
+noah ramen,,,cayenne
+noah ramen,,,cornstarch
+noah ramen,,,sesame,seeds
+noah ramen,,,bok choy
+noah ramen,,,spinach
+noah ramen,,,matchstick carrots
+noah ramen,,,onion
 chickpea salad wrap,2,(15,oz) cans chickpeas
 chickpea salad wrap,1,c,chopped celery
 chickpea salad wrap,4,T,chopped onion
@@ -698,13 +695,13 @@ veggie lo mein,1,T,ginger
 veggie lo mein,1,T,agave/maple
 veggie lo mein,1,T,sesame oil
 veggie lo mein,2,t,sriracha
-buttermilk biscuits,1,cup,unsweetened soy milk
+buttermilk biscuits,1,cup,soy milk
 buttermilk biscuits,1,tablespoon,apple cider vinegar
-buttermilk biscuits,2,½,cups all-purpose flour
+buttermilk biscuits,2.5,cups,flour
 buttermilk biscuits,2,tablespoons,baking powder
 buttermilk biscuits,2,teaspoons,sugar
 buttermilk biscuits,1,teaspoon,salt
-buttermilk biscuits,½,cup,cold butter
+buttermilk biscuits,0.5,cup,butter
 chickpea noodle soup,2,tablespoons,extra virgin olive oil
 chickpea noodle soup,1,small,"onion, chopped"
 chickpea noodle soup,1,"shallot,",chopped
