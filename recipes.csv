@@ -50,7 +50,7 @@ thai green curry,1,T,lime juice
 thai green curry,1,c,bell peppers
 thai green curry,1,c,carrots
 thai green curry,1/2,c,bamboo shoots
-thai green curry,1,can,water chestnuts,
+thai green curry,1,can,water chestnuts
 thai green curry,,, lime and basil leaves
 chickpea gnocchi soup,2,T,olive oil
 chickpea gnocchi soup,1,,onion
@@ -144,7 +144,7 @@ protein lemon bars,3,T,cornstarch
 protein lemon bars,1/2,c,water
 protein lemon bars,1/3,c,lemon juice
 protein lemon bars,1/2,t,vanilla
-protein lemon bars,dash,turmeric,
+protein lemon bars,,dash,turmeric
 pad thai,3,cloves,garlic
 pad thai,1/2,,zucchini
 pad thai,,,carrots
@@ -242,7 +242,7 @@ shepherds pie,2,,celery
 shepherds pie,1/2,,onion
 shepherds pie,2,cloves,garlic
 shepherds pie,1,c,lentils
-shepherds pie,1 3/4,c, vegetable broth
+shepherds pie,1.75,c, vegetable broth
 sushi,2,c,uncooked rice
 sushi,1/4,c,soy sauce
 sushi,2,T,maple syrup
@@ -467,21 +467,21 @@ banana protein bars,½,c,maple syrup
 banana protein bars,1,small,banana
 banana protein bars,¼,c,chopped nuts
 banana protein bars,1T,milk,
-falafel burrito,1,onion,
-falafel burrito,2c,carrots,
+falafel burrito,1,,onion
+falafel burrito,2,c,carrots
 falafel burrito,1,red,bell pepper
 falafel burrito,15,oz,chickpeas
-falafel burrito,1,¼,t salt
-falafel burrito,3t,garlic,powder
-falafel burrito,2t,cumin,
-falafel burrito,1t,coriander,
-falafel burrito,½,t,chili powder
-falafel burrito,olive,oil,
-falafel burrito,½,c,parsley
-falafel burrito,½,c,cilantro
-falafel burrito,½,lemon,
-falafel burrito,¾,c,hummus
-falafel burrito,5,tortillas,
+falafel burrito,1.25,t, salt
+falafel burrito,3, t, garlic powder
+falafel burrito,2,t,cumin
+falafel burrito,1,t,coriander
+falafel burrito,0.5,t,chili powder
+falafel burrito,,,olive oil
+falafel burrito,0.5,c,parsley
+falafel burrito,0.5,c,cilantro
+falafel burrito,0.5,lemon,
+falafel burrito,0.75,c,hummus
+falafel burrito,5,,tortillas
 chia seed pudding,⅓,c,chia seeds
 chia seed pudding,1,¼,c almond milk
 chia seed pudding,1T,maple,syrup
@@ -936,6 +936,6 @@ chickpea tacos, 4, T, lemon juice
 chickpea tacos, 3, c, cilantro
 chickpea tacos, 0.3, c, cashews 
 chickpea tacos, 2, cloves, garlic 
-chickpea tacos, 6, tortillas
-chickpea tacos, 1, avocado 
-chickpea tacos, , salsa 
+chickpea tacos, 6, , tortillas
+chickpea tacos, 1,, avocado 
+chickpea tacos,,,salsa 
